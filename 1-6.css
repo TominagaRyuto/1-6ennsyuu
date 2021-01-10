@@ -3,3 +3,35 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.a {
+  background-image: url(img/box1.jpg);
+  background-size: cover;
+  width: 100%;
+  height: 200px;
+  background-position: center;
+}
+
+.b {
+  background-image: url(img/box2.jpg);
+  background-size: cover;
+  width: 100%;
+  height: 200px;
+  background-position: left;
+}
+
+.c {
+  background-image: url(img/box3.jpg);
+  background-size: cover;
+  width: 100%;
+  height: 200px;
+  background-position: right;
+}
+
+.d {
+  background-image: url(img/box4.jpg);
+  background-size: cover;
+  width: 100%;
+  height: 200px;
+  background-position: bottom right;
+}
